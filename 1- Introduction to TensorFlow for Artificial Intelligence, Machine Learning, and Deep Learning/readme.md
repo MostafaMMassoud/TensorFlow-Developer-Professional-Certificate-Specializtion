@@ -2,7 +2,7 @@
 
 # Intro
 
-This course works as a brief introduction to the world of Neural Networks we will learn to creat basic NN with 1 hidden layer, Then we will introduced to computer vision
+This course consider as a brief introduction to the world of Neural Networks we will learn to creat basic NN with 1 hidden layer, Then we will introduced to computer vision
 and how to work with different images.
 
 # Syllabus:
