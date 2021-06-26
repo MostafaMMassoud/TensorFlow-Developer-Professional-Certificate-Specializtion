@@ -11,11 +11,6 @@ and how to work with different images.
   - **Week 2- Introduction to Computer Vision**
     - MultiClass problem with Fashion MNIST Data
   -  **Week 3 - Enhancing Vision with Convolutional Neural Networks**
-    - First introduction to convolution layer and enhancing our model
+     - First introduction to convolution layer and enhancing our model
   -  **Week 4 - Using Real-world Images**
-    - Working with larger and more complix images
-
-#### Notes:
-Data needed for Exercise 4:<br>
-[Horse or Human Training Data](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip)<br>
-[Horse or Human Validation Data](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip)
+     - Working with larger and more complix images
