@@ -12,25 +12,25 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 - 🟠 ` In Progress`
 - 🟢 Done
 
-##### 1- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (100% Done)
+##### 1- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
    - 🟢 Week1 - A New Programming Paradigm </font>
    - 🟢 Week2- Introduction to Computer Vision </font>
    - 🟢 Week3- Enhancing Vision with Convolutional Neural Networks </font>
    - 🟢 Week4- Using Real-world Images </font>
 
-##### 2- Convolutional Neural Networks in TensorFlow (0% Done)
+##### 2- Convolutional Neural Networks in TensorFlow
    - 🔴 ` Week1 - Exploring a Larger Dataset `
    - 🔴 ` Week2 - Augmentation: A technique to avoid overfitting `
    - 🔴 ` Week3 - Transfer Learning `
    - 🔴 ` Week4 - Multiclass Classifications `
 
-##### 3- Natural Language Processing in TensorFlow (0% Done)
+##### 3- Natural Language Processing in TensorFlow
    - 🔴 ` Week1 - Sentiment in text `
    - 🔴 ` Week2 - Word Embeddings `
    - 🔴 ` Week3 - Sequence models `
    - 🔴 ` Week4 - Sequence models and literature `
 
-##### 4-Sequences, Time Series and Prediction (0% Done)
+##### 4-Sequences, Time Series and Prediction
    - 🔴 ` Week1 - Sequences and Prediction `
    - 🔴 ` Week2 - Deep Neural Networks for Time Series `
    - 🔴 ` Week3 - Recurrent Neural Networks for Time Series `
