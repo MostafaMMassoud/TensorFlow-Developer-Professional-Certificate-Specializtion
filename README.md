@@ -9,7 +9,7 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 ## Courses:
 **Color Codes**
 - 🔴 ` Not Started`
-- 🟠 ` Inprogress`
+- 🟠 ` In Progress`
 - 🟢 Done
 
 ##### 1- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (100% Done)
