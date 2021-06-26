@@ -7,13 +7,13 @@ and how to work with different images.
 
 # Syllabus:
   - **Week 1 - A New Programming Paradigm**
-   - A NN Hello World problem where we try to solve linear equation with single layer NN
+    - A NN Hello World problem where we try to solve linear equation with single layer NN
   - **Week 2- Introduction to Computer Vision**
-   - MultiClass problem with Fashion MNIST Data
+    - MultiClass problem with Fashion MNIST Data
   -  **Week 3 - Enhancing Vision with Convolutional Neural Networks**
-   - First introduction to convolution layer and enhancing our model
+    - First introduction to convolution layer and enhancing our model
   -  **Week 4 - Using Real-world Images**
-   - Working with larger and more complix images
+    - Working with larger and more complix images
 
 #### Notes:
 Data needed for Exercise 4:<br>
