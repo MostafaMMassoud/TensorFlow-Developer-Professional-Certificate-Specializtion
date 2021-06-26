@@ -8,33 +8,33 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 
 ## Courses:
 **Color Codes**
-- ![#f01515](https://via.placeholder.com/15/f03c15/000000?text=+) ` Not Started`
-- ![#ffa621](https://via.placeholder.com/15/ffa621/000000?text=+) ` Inprogress`
-- ![#178f31](https://via.placeholder.com/15/178f31/000000?text=+) ` Done`
+- 🔴 ` Not Started`
+- 🟠 ` Inprogress`
+- 🟢 Done
 
 ##### 1- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (100% Done)
-   - <font color="#178f31"> Week1 - A New Programming Paradigm </font>
-   - <font color="#178f31"> Week2- Introduction to Computer Vision </font>
-   - <font color="#178f31"> Week3- Enhancing Vision with Convolutional Neural Networks </font>
-   - <font color="#178f31"> Week4- Using Real-world Images </font>
+   - 🟢 Week1 - A New Programming Paradigm </font>
+   - 🟢 Week2- Introduction to Computer Vision </font>
+   - 🟢 Week3- Enhancing Vision with Convolutional Neural Networks </font>
+   - 🟢 Week4- Using Real-world Images </font>
 
 ##### 2- Convolutional Neural Networks in TensorFlow (0% Done)
-   - <font color="#f01515"> Week1 - Exploring a Larger Dataset </font>
-   - <font color="#f01515"> Week2 - Augmentation: A technique to avoid overfitting </font>
-   - <font color="#f01515"> Week3 - Transfer Learning </font>
-   - <font color="#f01515"> Week4 - Multiclass Classifications </font>
+   - 🔴 ` Week1 - Exploring a Larger Dataset `
+   - 🔴 ` Week2 - Augmentation: A technique to avoid overfitting `
+   - 🔴 ` Week3 - Transfer Learning `
+   - 🔴 ` Week4 - Multiclass Classifications `
 
 ##### 3- Natural Language Processing in TensorFlow (0% Done)
-   - <font color="#f01515"> Week1 - Sentiment in text </font>
-   - <font color="#f01515"> Week2 - Word Embeddings </font>
-   - <font color="#f01515"> Week3 - Sequence models </font>
-   - <font color="#f01515"> Week4 - Sequence models and literature </font>
+   - 🔴 ` Week1 - Sentiment in text `
+   - 🔴 ` Week2 - Word Embeddings `
+   - 🔴 ` Week3 - Sequence models `
+   - 🔴 ` Week4 - Sequence models and literature `
 
 ##### 4-Sequences, Time Series and Prediction (0% Done)
-   - <font color="#f01515"> Week1 - Sequences and Prediction </font>
-   - <font color="#f01515"> Week2 - Deep Neural Networks for Time Series </font>
-   - <font color="#f01515"> Week3 - Recurrent Neural Networks for Time Series </font>
-   - <font color="#f01515"> Week4 - Real-world time series data </font>
+   - 🔴 ` Week1 - Sequences and Prediction `
+   - 🔴 ` Week2 - Deep Neural Networks for Time Series `
+   - 🔴 ` Week3 - Recurrent Neural Networks for Time Series `
+   - 🔴 ` Week4 - Real-world time series data `
 
 ### Out Sources:
    **To be added...**
