@@ -19,10 +19,10 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
    - 🟢 Week4- Using Real-world Images </font>
 
 ##### 2- Convolutional Neural Networks in TensorFlow
-   - 🔴 ` Week1 - Exploring a Larger Dataset `
-   - 🔴 ` Week2 - Augmentation: A technique to avoid overfitting `
-   - 🔴 ` Week3 - Transfer Learning `
-   - 🔴 ` Week4 - Multiclass Classifications `
+   - 🟢 Week1 - Exploring a Larger Dataset
+   - 🟢 Week2 - Augmentation: A technique to avoid overfitting
+   - 🟢 Week3 - Transfer Learning
+   - 🟢 Week4 - Multiclass Classifications
 
 ##### 3- Natural Language Processing in TensorFlow
    - 🔴 ` Week1 - Sentiment in text `
