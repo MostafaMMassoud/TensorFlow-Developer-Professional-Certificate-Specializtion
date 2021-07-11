@@ -1,5 +1,5 @@
 ### [Certificate](https://coursera.org/share/50fb4eea32ed3149795f1c8982313904)
-# Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+# Convolutional Neural Networks in TensorFlow
 
 # Intro
 
