@@ -35,6 +35,3 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
    - 🔴 ` Week2 - Deep Neural Networks for Time Series `
    - 🔴 ` Week3 - Recurrent Neural Networks for Time Series `
    - 🔴 ` Week4 - Real-world time series data `
-
-### Out Sources:
-   **To be added...**
