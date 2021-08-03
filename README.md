@@ -25,10 +25,10 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
    - 🟢 Week4 - Multiclass Classifications
 
 ##### 3- Natural Language Processing in TensorFlow
-   - 🟠 ` Week1 - Sentiment in text `
-   - 🟠 ` Week2 - Word Embeddings `
-   - 🟠 ` Week3 - Sequence models `
-   - 🟠 ` Week4 - Sequence models and literature `
+   - 🟢 ` Week1 - Sentiment in text `
+   - 🟢 ` Week2 - Word Embeddings `
+   - 🟢 ` Week3 - Sequence models `
+   - 🟢 ` Week4 - Sequence models and literature `
 
 ##### 4-Sequences, Time Series and Prediction
    - 🔴 ` Week1 - Sequences and Prediction `
