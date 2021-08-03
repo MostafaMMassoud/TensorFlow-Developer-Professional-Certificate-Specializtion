@@ -1,7 +1,9 @@
 ### [Certificate]( https://coursera.org/share/129b9c26bb59accb6b79d4265ba445ab)
 # Natural Language Processing in TensorFlow
 
-# In this course I am introduced in many of techniques on handling text with TensorFlow and Keras, and different model layers can be used.
+# Intro
+
+In this course I am introduced in many of techniques on handling text with TensorFlow and Keras, and different model layers can be used.
 
 # Syllabus:
   - **Week 1 Sentiment in text**
